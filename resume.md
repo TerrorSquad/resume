@@ -10,68 +10,127 @@ keywords:
   - 'mysql'
   - 'linux'
 author:
-- I am the author
-subject: 'Subject'
+- Goran Ninkovic
+subject: 'Resume'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [[goranninkovic.com](https://goranninkovic.com)] . [ goran@goranninkovic.com] . [ +381 64 018 0045 ]
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+### Expert full-stack developer specializing in e-commerce website creation using Magento 2. Proven success as a Tech Lead, mentoring junior developers and collaborating with project managers and clients. Proven ability to quickly learn and adapt to new technologies, with a strong interest in applying my skills to PHP, Typescript, Golang and Java-based projects. Currently engaged in full-stack development with Laminas and Nuxt 3 frameworks
 
 ## Skills
 
 ```programming```
-```devops```
 ```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+```software architecture & design```
+```agile```
+```mentoring```
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+## 🛠️ Core Tech Stack
+
+* **Languages:** PHP, JavaScript, TypeScript, Go
+* **Frontend:** Vue.js, Nuxt.js, Tailwind CSS
+* **Databases:** MySQL, PostgreSQL, Redis
+* **DevOps:** Ansible, Docker
+* **Tools:** Git, GitHub Actions
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Full stack developer
 
-start-date-end-date, City, State and remote
+Dec 2023 - present (7 mos)
 
-- Things you did/do here
-- More things that you do here.
+Euronet Worldwide - [https://www.euronetworldwide.com/](https://www.euronetworldwide.com/)
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+Novi Sad, Serbia
 
-### Senior Software Architect, Hooli
+**Technologies**: PHP • Nuxt.js • TypeScript • Docker • MySQL • WSL2
 
-2010-2016, San Francisco, CA
+#### Merchant Portal Migration (AngularJS to Nuxt 3)
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
+* Led the complete rewrite of the Merchant Portal from AngularJS to Nuxt 3, resulting in a modern, performant, and maintainable application.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+* Developed 20+ pages, custom Vue.js components, and REST API clients using Nuxt 3, NuxtUI, Tailwind CSS, and TypeScript.
 
-## Awards & Recognition
+* Implemented robust error handling, validation, and testing to ensure code quality and reliability.
 
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+* Utilized Git hooks and GitHub Actions to automate development workflows, improving team efficiency and reducing manual errors.
+
+#### PHP Backend Migration (PHP 7/Zend to PHP 8.3/Laminas)
+
+* Collaborated on the migration of the backend from PHP 7 with Zend Framework to PHP 8.3 with Laminas.
+
+* Resolved bugs, refactored code, and implemented code quality tools like Rector, leading to a more stable and maintainable codebase.
+
+* Created an OpenAPI (Swagger) specification to clearly document the API endpoints and improve developer experience.
+
+* Introduced DDEV and WSL to streamline local development and enhance team productivity.
+
+### Tech lead / Magento 2 developer
+
+Mar 2022 - Jun 2023 (1 yr 3 mos)
+
+Youwe - [https://www.youwe.nl/](https://www.youwe.nl/)
+
+Novi Sad, Serbia
+
+**Technologies**: PHP • Magento 2 • Docker • JavaScript
+
+* Led a team of 4 developers, ensuring timely project delivery and exceeding client expectations.
+
+* Successfully maintained and optimized two existing Magento 2 projects, increasing website traffic by 15% and improving overall user engagement.
+
+* Contributed to five additional projects, showcasing adaptability and a broad range of technical skills.
+
+### Magento 2 developer, Bee IT
+
+Jan 2020 - Feb 2022 (2 yrs 1 mo)
+
+Bee IT - [https://beeit.io/](https://beeit.io/)
+
+Novi Sad, Serbia
+
+**Technologies**: Magento 2 • Vue.js • Docker • JavaScript
+
+* Developed a headless e-commerce website using VueStorefront and Magento 2 for paperchase.com, demonstrating expertise in modern e-commerce architectures.
+
+* Managed and maintained multiple Magento 2 multistore websites (NL/BE/DE), resulting in a 20% increase in sales through effective optimization and troubleshooting.
+
+* Mentored interns, facilitating their growth into competent Magento 2 developers.
+
+### Salesforce Commerce Cloud Developer
+
+Aug 2019 - Jan 2020 (5 mos)
+
+Bee IT - [https://beeit.io/](https://beeit.io/)
+
+Novi Sad, Serbia
+
+**Technologies**: JavaScript • Salesforce
+
+* Developed and maintained a B2B website using SFRA architecture for Gall&Gall, showcasing experience with Salesforce Commerce Cloud.
+
+* Collaborated effectively with a remote team in Serbia, demonstrating strong communication and teamwork skills.
 
 ## Projects
 
-**[*Personal Blog*](http://luther.io)** (2021-present)
+**[*Gradska Uprava Novi Sad - GukIT*](https://play.google.com/store/apps/details?id=rs.infinitydev.kultura&hl=sr&gl=TW&pli=1)**
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+(Mar 2018 - Jun 2018 • 3 mos)
+
+**Technologies**: Ionic • Android
+
+Developed and published a mobile application for the Novi Sad City Administration using Ionic 2 framework, demonstrating proficiency in mobile development.
 
 ## Education
 
-### Masters in BS, Example University
+**Bachelor's degree: Software and Information Technologies** Sep 2016 - Mar 2019 • 2 yrs 6 mos
 
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+University of Technical Sciences, Novi Sad
+
+Novi Sad, Serbia
+
+### Languages
+
+Serbian (Native or bilingual proficiency)
+
+English (Professional working proficiency)
