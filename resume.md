@@ -3,7 +3,7 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
+title: Goran Ninkovic
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
   - 'php'
@@ -13,9 +13,14 @@ author:
 - Goran Ninkovic
 subject: 'Resume'
 ---
-###### [[goranninkovic.com](https://goranninkovic.com)] . [ goran@goranninkovic.com] . [ +381 64 018 0045 ]
 
-### Expert full-stack developer specializing in e-commerce website creation using Magento 2. Proven success as a Tech Lead, mentoring junior developers and collaborating with project managers and clients. Proven ability to quickly learn and adapt to new technologies, with a strong interest in applying my skills to PHP, Typescript, Golang and Java-based projects. Currently engaged in full-stack development with Laminas and Nuxt 3 frameworks
+<!-- Headshot profile image -->
+
+###### <goran@goranninkovic.com> • +381640180045
+
+##### [goranninkovic.com](https://goranninkovic.com) • [LinkedIn](https://www.linkedin.com/in/goran-ninkovic) • [Github](https://github.com/TerrorSquad)
+
+### ![](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/11096867?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d) Expert full-stack developer specializing in e-commerce website creation using Magento 2. Proven success as a Tech Lead, mentoring junior developers and collaborating with project managers and clients. Proven ability to quickly learn and adapt to new technologies, with a strong interest in applying my skills to PHP, Typescript, Golang and Java-based projects. Currently engaged in full-stack development with Laminas and Nuxt 3 frameworks
 
 ## Skills
 

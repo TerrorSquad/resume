@@ -522,7 +522,7 @@ h1 {
 h2 {
     font-size: 24px;
     border-bottom: 1px solid #ccc;
-    color: #f39
+    color: rgb(39, 27, 204)
 }
 
 h3 {
@@ -602,6 +602,8 @@ body>h6:first-child {
     padding-top: 0
 }
 
+
+
 a:first-child h1,
 a:first-child h2,
 a:first-child h3,
@@ -610,6 +612,13 @@ a:first-child h5,
 a:first-child h6 {
     margin-top: 0;
     padding-top: 0
+}
+
+/* Summary and portrait image */
+h3:first-of-type {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
 }
 
 h1+p,
